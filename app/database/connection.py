@@ -1,11 +1,8 @@
-
 import os
 import oracledb
-
 from dotenv import load_dotenv
 
 load_dotenv()
-
 
 def conectar():
     usuario = os.getenv("DB_USER")
