@@ -4,6 +4,12 @@ API REST desenvolvida com **Python, FastAPI e Oracle Database** para apoiar o ca
 
 O projeto tem como objetivo oferecer uma estrutura de assistência, acompanhamento e segurança para pessoas que precisam de suporte, incluindo pessoas que moram sozinhas ou possuem necessidades de acessibilidade.
 
+##  Integrantes
+
+* **RM559483 - Matheus Ikeda**
+* **RM560723 - Davis Junior**
+* **RM560340 - Matheus Machado**
+
 ## Funcionalidades
 
 - Cadastro, consulta, atualização e exclusão de usuários.
