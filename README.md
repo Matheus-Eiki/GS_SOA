@@ -1,5 +1,7 @@
 # Moving Health
 
+Este projeto foi criado para promover acessibilidade as pessoas com problemas de locomoção, para que seja possível que elas recebam tratamentos de maneira mais rápida ao invés de irem para o hospital que em alguns casos não é possível, os médicos vão até suas casas para um atendimento mais rápido para o caso. 
+
 API REST desenvolvida com **Python, FastAPI e Oracle Database** para apoiar o cadastro de usuários e o gerenciamento de contatos de emergência, alertas e acompanhamentos.
 
 O projeto tem como objetivo oferecer uma estrutura de assistência, acompanhamento e segurança para pessoas que precisam de suporte, incluindo pessoas que moram sozinhas ou possuem necessidades de acessibilidade.
